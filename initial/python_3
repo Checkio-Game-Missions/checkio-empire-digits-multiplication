@@ -1,6 +1,10 @@
-def checkio(data):
+def multiply_digits(number):
     return 1
+
 
 if __name__ == '__main__':
     # These "asserts" using only for self-checking and not necessary for auto-testing
-    assert checkio(2) == 3
+    assert multiply_digits(123405) == 120
+    assert multiply_digits(999) == 729
+    assert multiply_digits(1000) == 1
+    assert multiply_digits(1111) == 1

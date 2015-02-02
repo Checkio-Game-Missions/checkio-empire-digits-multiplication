@@ -1,3 +1,3 @@
-**Input:** Something as an integer. 
+**Input:** A positive integer. 
 
-**Output:** The answer as a string.
+**Output:** The product of the digits as an integer.

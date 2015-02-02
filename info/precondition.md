@@ -1,4 +1,4 @@
 **Precondition:**
 ```python
-a < b
+0 < number < 10 ** 6
 ```
