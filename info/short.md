@@ -1,1 +1,1 @@
-Add short description
+How to work with numbers by non standard way.
