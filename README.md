@@ -1,4 +1,4 @@
-checkio-task-digits-multiplication
+digits-multiplication
 ==================================
 
-Checkio Task "Digits Multiplication"
+Crystal Farm 2.2 "Digits Multiplication"
