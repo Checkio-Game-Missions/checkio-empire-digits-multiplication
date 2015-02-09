@@ -1,3 +1,3 @@
 **How it is used:**
 
-This task can teach you how to solve a problem with simple data type conversion.
+This mission teaches you to work with simple data type conversions to solve a problem.

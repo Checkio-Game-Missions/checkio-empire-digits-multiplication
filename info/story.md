@@ -1,2 +1,2 @@
-After division we should train computers with multiplication.
-For this we will use simple exercise with numbers.
+After programming the computers to handle division we should add functionality for multiplication. 
+For this we will use a simple numbers exercise.
