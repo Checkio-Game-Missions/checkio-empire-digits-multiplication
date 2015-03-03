@@ -1,8 +1,8 @@
 **Example:**
 
 ```python
-multiply_digits(123405) == 120
-multiply_digits(999) == 729
-multiply_digits(1000) == 1
-multiply_digits(1111) == 1
+golf(123405) == 120
+golf(999) == 729
+golf(1000) == 1
+golf(1111) == 1
 ```
