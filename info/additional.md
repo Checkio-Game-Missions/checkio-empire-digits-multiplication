@@ -1,3 +1,5 @@
+**Scoring:**
+
 Scoring in this mission is based on the number of characters used in your code 
 (comment lines are not counted). 
 
