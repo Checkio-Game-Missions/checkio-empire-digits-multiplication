@@ -1,6 +1,14 @@
-**Scoring:** 
+Scoring in this mission is based on the number of characters used in your code 
+(comment lines are not counted). 
 
-For reference, scoring is based on the number of characters used.
-100 characters is the maximum allowable and it will earn you 10 points.
-For each character less than 100, you earn +1 point. 
-For example for 50 character long code earns you 60 points.
+**Rank1:**
+ 
+Any code length.
+
+**Rank2:**
+
+Your code should be shorter than 90 characters.
+
+**Rank2:**
+
+Your code should be shorter than 60 characters.
