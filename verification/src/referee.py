@@ -1,4 +1,5 @@
-from checkio_referee import RefereeCodeGolf
+from checkio_referee import RefereeCodeGolf, RefereeBase
+from checkio_referee.referee import golf
 
 
 import settings_env
