@@ -1,4 +1,3 @@
 **Precondition:**
-```python
-0 < number < 10 ** 6
-```
+
+`0 < number < 10`<sup>`6`</sup>
