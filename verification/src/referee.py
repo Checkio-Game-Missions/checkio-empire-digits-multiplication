@@ -7,10 +7,7 @@ from tests import TESTS
 
 
 class Referee(RefereeCodeGolf):
-    DEFAULT_MAX_CODE_LENGTH = 90
-    MAX_CODE_LENGTHS = {
-        ENV_NAME.JS_NODE: 120
-    }
+    DEFAULT_MAX_CODE_LENGTH = 100
     BASE_POINTS = 10
     TESTS = TESTS
     ENVIRONMENTS = settings_env.ENVIRONMENTS
