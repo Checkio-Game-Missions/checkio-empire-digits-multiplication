@@ -11,4 +11,5 @@ function golf(number) {
 //    assert.equal(golf(999), 729, "2nd example");
 //    assert.equal(golf(1000), 1, "3rd example");
 //    assert.equal(golf(1111), 1, "4th example");
+//    console.log("Now that you're finished, hit the 'Check' button to review your code and earn sweet rewards!");
 //}
